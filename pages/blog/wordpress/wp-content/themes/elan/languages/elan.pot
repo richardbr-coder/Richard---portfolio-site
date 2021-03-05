@@ -1,0 +1,466 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Elan\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-30 11:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: template-parts/footer/footer-bar.php:51
+#, php-format
+msgid ""
+"<p class=\"m-0\">Menu not found! Assign a <a href=\"%s\" target=\"_blank\">"
+"Menu</a> & choose menu to display in footer bar from ( Appearance - > "
+"Customize -> Footer - > Footer Menu )</p>"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/framework/demo-importer/class-demo.php:173
+#, php-format
+msgid ""
+"<p class=\"submit\"><a href=\"%s\" class=\"button button-primary elan-reset-"
+"default\">Run the Reset Wizard</a> &#8211; If you need to reset the "
+"WordPress back to default again :)<p>"
+msgstr ""
+
+#: search.php:41
+#, php-format
+msgid ""
+"<span class=\"results-count\">%d </span><span class=\"results-text\">Search "
+"Results Found, </span>"
+msgstr ""
+
+#: search.php:43
+#, php-format
+msgid ""
+"<span class=\"search-for\">for:</span><span class=\"search-word\">%s</span>"
+msgstr ""
+
+#: inc/framework/widgets/widgets.php:21 inc/framework/widgets/widgets.php:38
+#: inc/framework/widgets/widgets.php:59
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/helpers/template-functions.php:252
+msgid "All rights reserved"
+msgstr ""
+
+#: inc/framework/customizer/panel/archive.php:16
+msgid "Archive/Blog Settings"
+msgstr ""
+
+#: archive.php:74
+msgid "Author Website"
+msgstr ""
+
+#: footer.php:36
+msgid "Back to Top"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:111
+msgid "Background"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:64
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/helpers/template-functions.php:381
+msgid "Choose a Menu"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/helpers/template-functions.php:158
+msgid "Comments:"
+msgstr ""
+
+#: inc/libraries/tgm/tgm.php:32
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:111
+msgid "Content Order"
+msgstr ""
+
+#: inc/helpers/template-functions.php:247
+msgid "Copyright &copy;"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:117
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:320
+#: inc/framework/meta-boxes/class-meta-box.php:352
+msgid "Default"
+msgstr ""
+
+#: inc/framework/customizer/panel/archive.php:43
+#: inc/framework/customizer/panel/page.php:43
+#: inc/framework/customizer/panel/post.php:43
+msgid "Default Thumbnail: Type"
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:328
+msgid "Default value is inherit from single post or page settings."
+msgstr ""
+
+#: inc/helpers/template-functions.php:253
+msgid "Designed by"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:136
+msgid "Display a menu"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:50
+msgid "Display Site Title"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:61
+msgid "Display Tagline"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:112
+msgid "Drag & Drop items to re-arrange order of appearance."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/page/content-page.php:74 template-parts/post/content.php:101
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. Name of the theme
+msgid "Elan"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Elan is a clean, modern and minimal WordPress theme for bloggers and "
+"creative people.  It’s beautifully crafted with minimalist design in mind "
+"and pleasure reading blog content. Elan is suitable for any kind of blog, "
+"personal, fashion, lifestyle, food, travel, photography, portfolio, "
+"technology or any kind blog sites."
+msgstr ""
+
+#: inc/libraries/back-compat.php:37 inc/libraries/back-compat.php:51
+#: inc/libraries/back-compat.php:72
+#, php-format
+msgid ""
+"Elan requires at least WordPress version 4.7 or later and PHP version 5.4.0 "
+"or later. You are running WordPress version %1$s and PHP version %2$s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:45
+#: inc/framework/customizer/panel/header.php:75
+msgid "Enable"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:46
+msgid "Enable it to display Footer Widget Area on all Pages."
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:339
+msgid "Featured Image Type"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:16
+msgid "Footer"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:24
+msgid "Footer Bar"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:118
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/framework/widgets/widgets.php:57
+#, php-format
+msgid "Footer Widgets Column %d"
+msgstr ""
+
+#: inc/helpers/template-functions.php:400
+#: inc/framework/meta-boxes/class-meta-box.php:356
+msgid "Full Width"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:16
+msgid "Header"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:24
+msgid "Header Search"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://precisethemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://precisethemes.com/wordpress-themes/elan/"
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:342
+msgid "Image Type"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:355
+#: inc/framework/customizer/panel/archive.php:51
+#: inc/framework/customizer/panel/page.php:51
+#: inc/framework/customizer/panel/post.php:51
+msgid "Landscape Image"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:93
+#: inc/framework/customizer/panel/sidebar.php:43
+msgid "Layout"
+msgstr ""
+
+#: inc/helpers/template-functions.php:399
+msgid "Left Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Barlow, translate this to 'off'. Do not translate into your own language.
+#: functions.php:160
+msgctxt "Libre Baskerville font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/libraries/tgm/tgm.php:27
+msgid "MailChimp Sign-Up Form"
+msgstr ""
+
+#: template-parts/post/content.php:137 template-parts/post/content.php:142
+msgid "Next Post"
+msgstr ""
+
+#: inc/helpers/template-functions.php:386
+msgid "No Menu set yet"
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:107
+msgid "No meta settings available for this post type or user."
+msgstr ""
+
+#: template-parts/header/header-search.php:32
+#, php-format
+msgid "No widgets found! <a href=\"%s\" target=\"_blank\">Add Widget </a>"
+msgstr ""
+
+#: inc/framework/demo-importer/class-demo.php:303
+msgid ""
+"NOTE: In demo import, category selection could be omitted in old (non-fresh) "
+"WordPress setup. After import is complete, please go to Widgets admin page "
+"under Appearance menu and select the appropriate category in the widgets."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/libraries/tgm/tgm.php:21
+msgid "One Click Demo Importer"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:145
+msgid "Other"
+msgstr ""
+
+#: template-parts/page/content-page.php:62 template-parts/post/content.php:89
+msgid "Pages:"
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:353
+#: inc/framework/customizer/panel/archive.php:49
+#: inc/framework/customizer/panel/page.php:49
+#: inc/framework/customizer/panel/post.php:49
+msgid "Portrait Image"
+msgstr ""
+
+#. %s: post date.
+#: inc/helpers/template-functions.php:200
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#. Author of the theme
+msgid "Precise Themes"
+msgstr ""
+
+#: template-parts/post/content.php:130 template-parts/post/content.php:135
+msgid "Previous Post"
+msgstr ""
+
+#: functions.php:87
+msgid "Primary"
+msgstr ""
+
+#: inc/helpers/template-functions.php:226
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/helpers/template-functions.php:401
+msgid "Right Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Barlow Semi Condensed, translate this to 'off'. Do not translate into your own language.
+#: functions.php:155
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:94
+msgid "Search Input"
+msgstr ""
+
+#: inc/framework/widgets/widgets.php:36
+msgid "Search Popup Column 1"
+msgstr ""
+
+#: inc/framework/customizer/panel/page.php:44
+#: inc/framework/customizer/panel/post.php:44
+msgid ""
+"Select default thumbnail image for post. It will set the \"Featured Image "
+"Type\" while creating new post."
+msgstr ""
+
+#: inc/framework/customizer/panel/archive.php:44
+msgid ""
+"Select default thumbnail image for posts. It will set the \"Featured Image "
+"Type\" while creating new post for the blog or archive pages."
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:343
+#, php-format
+msgid ""
+"Select unique featured image type you want to display on Single %1$s listing."
+" To change default value go to %2$s which applies to all Single %1$s listing."
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:83
+msgid "Settings"
+msgstr ""
+
+#: inc/framework/widgets/widgets.php:19
+#: inc/framework/customizer/panel/sidebar.php:22
+msgid "Sidebar"
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:324
+#: inc/framework/meta-boxes/class-meta-box.php:327
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/framework/customizer/panel/sidebar.php:16
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/framework/customizer/panel/page.php:16
+#: inc/framework/customizer/panel/post.php:16
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:23
+msgid "Site Title & Tagline"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/framework/meta-boxes/class-meta-box.php:354
+#: inc/framework/customizer/panel/archive.php:50
+#: inc/framework/customizer/panel/page.php:50
+#: inc/framework/customizer/panel/post.php:50
+msgid "Square Image"
+msgstr ""
+
+#: inc/helpers/template-functions.php:108
+msgid "Tags:"
+msgstr ""
+
+#: inc/framework/customizer/panel/sidebar.php:44
+msgid ""
+"This sidebar will be reflected in whole site blog, archives, categories, "
+"tags, authors and search result page."
+msgstr ""
+
+#: inc/framework/customizer/panel/archive.php:22
+#: inc/framework/customizer/panel/page.php:22
+#: inc/framework/customizer/panel/post.php:22
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: inc/framework/customizer/panel/header.php:95
+#, php-format
+msgid ""
+"To add Search input, go to %1$s (Dashboard -> Appearance -> Widgets) and add "
+"%2$s widget to Search Popup Column 1."
+msgstr ""
+
+#: inc/framework/customizer/panel/archive.php:52
+#: inc/framework/customizer/panel/page.php:52
+#: inc/framework/customizer/panel/post.php:52
+msgid "Wide Image"
+msgstr ""
+
+#: inc/framework/customizer/panel/footer.php:23
+msgid "Widgets"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Barlow, translate this to 'off'. Do not translate into your own language.
+#: functions.php:165
+msgctxt "Work Sans font: on or off"
+msgid "on"
+msgstr ""

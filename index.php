@@ -11,7 +11,8 @@
 	</noscript>
 </head>
 
-<body class="is-preload">
+<!-- Include "is-preload" in the body class to pre load the whole site on first load -->
+<body class="">
 
 	<!-- Wrapper -->
 	<div id="wrapper">
@@ -32,13 +33,14 @@
 					</p>
 					<b>
 						<p style="margin-bottom: 1%; ">Are you ready to meet me?</p>
+						<p style="margin-bottom: 1%; ">Want to hire me? Contact me <a href="#contact">HERE</a> or visit NOVALAB, my software development business.</p>
 					</b>
 					<ul style="justify-content: center;" class="actions">
-						<li><a href="https://blog.codedad.ca" class="button primary">CODE DAD BLOG</a></li>
-						<li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li>
+						<li><a href="https://thenovalab.ca/" class="button primary">NOVALAB</a></li>
+						<!--<li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li>-->
 					</ul>
 					<ul class="icons">
-						<li><a href="https://blog.codedad.ca" class="icon brands fa-readme"><span class="label">CodeDad
+						<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB
 									Blog</span></a></li>
 						<li><a href="#" class="icon brands fa-stack-overflow"><span class="label">Stack
 									Overflow</span></a></li>
@@ -65,9 +67,10 @@
 
 			<!-- Intro -->
 			<article id="intro">
-				<h2 class="major">Who am I</h2>
+				<h2 class="major">Meet Me</h2>
 				<ul class="actions">
-					<li><a href="#photography" class="button">Art Worx</a></li>
+					<li><a href="#" class="button">Home</a></li>
+					<li><a href="#photography" class="button">Photos</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
 				</ul>
@@ -92,7 +95,7 @@
 								<path id="bPath" d=""></path>
 							</g>
 							<text id="bText" x="25" y="25">
-								<tspan>62
+								<tspan>85
 							</text>
 						</svg>
 						<p contenteditable="false">Instrument</p>
@@ -103,13 +106,46 @@
 								<circle id="gCirc" r="10" />
 								<path id="gPath" d=""></path>
 							</g>
-							<text id="gText" x="25" y="25">62</text>
+							<text id="gText" x="25" y="25">95</text>
 						</svg>
 						<p contenteditable="false">Photograpghy</p>
 					</div>
 				</div>
 
-				<p>Some writing about me will go here</p>
+				<p>
+					Welcome to my personal portfolio site! Glad you came! Keep reading to find out a little about me. Hit up the contact form to 
+					let me know if you like the sites design! Or just to chat! <a href="#contact">CONTACT ME</a>
+				</p>
+
+				<p>
+					The quote on the home page; 
+
+					<br><br>
+					"INSPIRED BY THE SIMPLE THINGS, DRIVEN BY THE COMPLEX.", "THE THINGS THAT MAKE US WHO WE ARE IS
+					A COLLECTION OF BIOLOGICAL DATABASES DERIVED FROM PREVIOUS EXPERIENCES. THE SELF SHIFTS OVER TIME, PARSING OUT DESTRUCTIVE OBJECTS, 
+					LEAVING US WITH SOMETHING MORE RECOGNISABLE...THE TRUTH."
+					<br><br> 
+					
+					This is my quote, I feel like it encomposes how I approach most 
+					things, looking for the truth. Striving to find the things that will make ones self a better self. Looking to the nominal, repeatable, and  
+					testable for verification. Although not always neccessary, or approaiate, sometimes you have to take chances and risk everything, but you'd better 
+					be ready and willing to celebrate or take responibility for any and all failures along the way. Sometimes failing is where the best lessons are 
+					learned but no matter the outcome there's one thing I can guarantee, I'll be ready to take the plunge! 
+				</p>
+
+				<p>
+					I am a Canadian Forces Veteran, after retiring from Canada's Armoured Core with the Department Of National Defense, I received many types of educational recoginion 
+					from serveral different instructions throughout Newfoundland. While attending Memorial Universery of Newfoundland or College of the North Atlantic I became educated in Electrical Enineering, Software Development, 
+					Psychology and Sociology. Outside of the interest above I have a solid background in astronomy, drone building and design, electrical engineering, electronics, 
+					advanced computer systems and design, networking, data science, and botany.
+				</p>
+
+				<p>
+					I started a business, <a href="https://thenovalab.ca">NOVALAB</a>. This is a development business, mainly web development with a push to move into making Iphone and Android 
+					apps. If you'd like to reach out please contact me <a href="#contact">HERE</a> or check out the <a href="https://thenovalab.ca">NOVALAB</a> site. 
+				</p>
+
+				<p><a class="scroll button primary" href="#top">Back to the top</a></p>
 
 			</article>
 
@@ -117,155 +153,199 @@
 			<article id="photography">
 				<h2 class="major">Photography Works</h2>
 				<ul class="actions">
+					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
 				</ul>
-				<p>Works is a page where I highlight my best photography shots. These were all taken by me over the last
-					number of years at different locations thoughout newfoundland.
+				<p>Photography Works, a page where I highlight my own favorite photography shots. These were all taken by me over the last
+					number of years at different locations thoughout Newfoundland.
 					I am the photo snapper and editor of all these photos. All of my photography is done under my
-					photography business name, Mirrorless Photo Studios. If you
+					photography business name, Mirrorless Photo Studios, which has merged with my development business <a href="https://thenovalab.ca">NOVALAB</a>. If you
 					would like prints, canvas or box frames of any of these photos please <a href="#contact">contact
 						me</a> to request.
 				</p>
 
-				<figure class="snip1504">
-					<img id="pic2" src="images/pic2.png" alt="sample57" onclick="enlargeImg()" />
+				<figure class="snip1504" >
+					<img id="myImg" src="images/pic2.png" alt="Self portrait"/>
 					<figcaption>
 						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
+						<h5>Self Portrait</h5>
 					</figcaption>
-					<a href="#"></a>
 				</figure>
-				<figure class="snip1504 hover">
-					<img src="images/pic1.jpg" alt="sample59" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
-				<figure class="snip1504">
-					<img src="images/pic3.jpg" alt="sample60" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
-				<figure class="snip1504">
-					<img src="images/pic4.jpg" alt="sample57" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
-				<figure class="snip1504 hover">
-					<img src="images/pic5.jpg" alt="sample59" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
-				<figure class="snip1504">
-					<img src="images/pic6.jpg" alt="sample60" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
-				<figure class="snip1504">
-					<img src="images/pic11.jpg" alt="sample57" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
-				<figure class="snip1504 hover">
-					<img src="images/pic7.jpg" alt="sample59" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
-				<figure class="snip1504">
-					<img src="images/pic8.jpg" alt="sample60" />
-					<figcaption>
-						<h3>Richard Randell</h3>
-						<h5>Photography</h5>
-					</figcaption>
-					<a href="#"></a>
-				</figure>
+					<!--
+					The Modal 
+					<div id="myModal" class="modal">
 
+						The Close Button 
+						<span class="close">&times;</span>
+
+						Modal Content (The Image) 
+						<img class="modal-content" id="img01">
+
+						<Modal Caption (Image Text)
+						<div id="caption"></div>
+					</div> 
+					-->
+				<figure class="snip1504">
+					<img src="images/_DSC8575.jpg" alt="Caribou" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Nature Park Caribou</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/_DSC0707.jpg" alt="car" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>American Muscle</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/pic4.jpg" alt="car" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>American Muscle Continued</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/pic5.jpg" alt="sam" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Model: Sam Valis</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/pic6.jpg" alt="CBS" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>CBS Harbour</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/_DSC9306.jpg" alt="Wife" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Model: My Beautiful Wife(Alexandra Randell) & My Handsome Son(Maxwell Randell)</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/pic11.jpg" alt="scarlett" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Model: My Beautiful Daughter(Scarlett Rae Randell)</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/pic7.jpg" alt="scarlett" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Model: My Beautiful Daughter(Scarlett Rae Randell)</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/_DSC1702.jpg" alt="Maxwell" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Model: My Handsome Son(Maxwell Randell)</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/_DSC8087.jpg" alt="Sam" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Model: Sam Valis</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/pic8.jpg" alt="Owl" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Nature Park Owl</h5>
+					</figcaption>
+				</figure>
+				<figure class="snip1504">
+					<img src="images/_DSC8296.jpg" alt="sai" />
+					<figcaption>
+						<h3>Photographer: Richard Randell</h3>
+						<h5>Model: Sai Wescott</h5>
+					</figcaption>
+				</figure>
+				<br><br><br>
+				<p><a class="scroll button primary" href="#top">Back to the top</a></p>
 			</article>
 
 			<!-- skills -->
 			<article id="skills">
-				<h2 class="major">Skills</h2>
+				<h2 class="major">Developmental Skills</h2>
 				<ul class="actions">
+					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
-					<li><a href="#photography" class="button">Art Worx</a></li>
+					<li><a href="#photography" class="button">Photos</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
 				</ul>
 				<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 
-				<!-- Frameworks -->
-				<h1 class="title-skills">Operating Systems/Distros</h1>
+				<p>
+					Developers need to use a lot of different tools to complete a piece of software. Wether it be a web app or
+					native app the list of utilities and knowledge a developer has to use will change from task to task. To keep
+					this list of skills from being 100's of skills long I have decide to stick to just the core things that developers use.
+					This doesn't inlcude things like IDE's, local server enviroments or any other micro skills. The percentage is 
+					based on proficency and ability to problem solve that particular skill. 
+				</p>
+
+				<!-- OS -->
+				<h1 class="title-skills">Operating Systems</h1>
 				<div class="bar">
 					<div class="skill">Mac</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble sketch">95%</div>
+						<div class="bar-inner sk"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Linux(fadora)</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble indesign">85%</div>
+						<div class="bar-inner in"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Linux(ubuntu)</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble illustrator">90%</div>
+						<div class="bar-inner il"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Linux(ubuntu server)</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble fluent">80%</div>
+						<div class="bar-inner fl"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Windows</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble indesign">85%</div>
+						<div class="bar-inner in"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Windows server</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
+						<div class="speech-bubble html">75%</div>
 						<div class="bar-inner ht"></div>
 					</div>
 				</div>
 
-				<!-- Dev skills -->
+				<!-- Programming languages -->
 				<h1 class="title-skills">Programming Languages</h1>
 				<div class="bar">
 					<div class="skill">HTML & CSS</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble sketch">95%</div>
+						<div class="bar-inner sk"></div>
 					</div>
 				</div>
 				<div class="bar">
@@ -278,7 +358,7 @@
 				<div class="bar">
 					<div class="skill">PHP</div>
 					<div class="bar-outer">
-						<div class="speech-bubble sketch">90%</div>
+						<div class="speech-bubble sketch">95%</div>
 						<div class="bar-inner sk"></div>
 					</div>
 				</div>
@@ -299,28 +379,28 @@
 				<div class="bar">
 					<div class="skill">C#</div>
 					<div class="bar-outer">
-						<div class="speech-bubble indesign">85%</div>
-						<div class="bar-inner in"></div>
+						<div class="speech-bubble illustrator">90%</div>
+						<div class="bar-inner il"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">C++</div>
 					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
-						<div class="bar-inner fl"></div>
+						<div class="speech-bubble html">75%</div>
+						<div class="bar-inner ht"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Python</div>
 					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
+						<div class="speech-bubble fluent">80%</div>
 						<div class="bar-inner fl"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Ladder logic</div>
 					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
+						<div class="speech-bubble fluent">80%</div>
 						<div class="bar-inner fl"></div>
 					</div>
 				</div>
@@ -330,36 +410,36 @@
 				<div class="bar">
 					<div class="skill">Laravel</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble indesign">85%</div>
+						<div class="bar-inner in"></div>
+					</div>
+				</div>
+				<div class="bar">
+					<div class="skill">Django</div>
+					<div class="bar-outer">
+						<div class="speech-bubble django">40%</div>
+						<div class="bar-inner da"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">NPM</div>
 					<div class="bar-outer">
-						<div class="speech-bubble jquery">55%</div>
-						<div class="bar-inner jq"></div>
+						<div class="speech-bubble fluent">80%</div>
+						<div class="bar-inner fl"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">NODE js</div>
-					<div class="bar-outer">
-						<div class="speech-bubble sketch">90%</div>
-						<div class="bar-inner sk"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">Ruby on Rails</div>
 					<div class="bar-outer">
 						<div class="speech-bubble photo">75%</div>
 						<div class="bar-inner ph"></div>
 					</div>
 				</div>
 				<div class="bar">
-					<div class="skill">Django</div>
+					<div class="skill">Ruby on Rails</div>
 					<div class="bar-outer">
-						<div class="speech-bubble illustrator">90%</div>
-						<div class="bar-inner il"></div>
+						<div class="speech-bubble jquery">55%</div>
+						<div class="bar-inner jq"></div>
 					</div>
 				</div>
 				<div class="bar">
@@ -370,31 +450,31 @@
 					</div>
 				</div>
 				<div class="bar">
-					<div class="skill">Angular</div>
+					<div class="skill">Vue.js</div>
 					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
-						<div class="bar-inner fl"></div>
+						<div class="speech-bubble jquery">55%</div>
+						<div class="bar-inner jq"></div>
 					</div>
 				</div>
 				<div class="bar">
-					<div class="skill">Vue.js</div>
+					<div class="skill">Angular</div>
 					<div class="bar-outer">
-						<div class="speech-bubble illustrator">90%</div>
-						<div class="bar-inner il"></div>
+						<div class="speech-bubble html">75%</div>
+						<div class="bar-inner ht"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">React</div>
 					<div class="bar-outer">
-						<div class="speech-bubble indesign">85%</div>
-						<div class="bar-inner in"></div>
+						<div class="speech-bubble photo">75%</div>
+						<div class="bar-inner ph"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Express.js</div>
 					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
-						<div class="bar-inner fl"></div>
+						<div class="speech-bubble express">65%</div>
+						<div class="bar-inner ex"></div>
 					</div>
 				</div>
 
@@ -403,32 +483,32 @@
 				<div class="bar">
 					<div class="skill">MySQL</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble sketch">95%</div>
+						<div class="bar-inner sk"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">PHPmyAdmin</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble sketch">95%</div>
+						<div class="bar-inner sk"></div>
 					</div>
 				</div>
 
 				<!-- Cloud -->
-				<h1 class="title-skills">Cloud</h1>
+				<h1 class="title-skills">Cloud Development</h1>
 				<div class="bar">
-					<div class="skill">MySQL</div>
+					<div class="skill">AWS</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble photo">75%</div>
+						<div class="bar-inner ph"></div>
 					</div>
 				</div>
 				<div class="bar">
-					<div class="skill">PHPmyAdmin</div>
+					<div class="skill">Azure</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble jquery">55%</div>
+						<div class="bar-inner jq"></div>
 					</div>
 				</div>
 
@@ -437,29 +517,29 @@
 				<div class="bar">
 					<div class="skill">Terminal</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble indesign">85%</div>
+						<div class="bar-inner in"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">VScode</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble max">100%</div>
+						<div class="bar-inner ma"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Tableplus</div>
 					<div class="bar-outer">
-						<div class="speech-bubble jquery">55%</div>
-						<div class="bar-inner jq"></div>
+						<div class="speech-bubble indesign">85%</div>
+						<div class="bar-inner in"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">GITHUB Terminal Commands</div>
 					<div class="bar-outer">
-						<div class="speech-bubble sketch">90%</div>
-						<div class="bar-inner sk"></div>
+						<div class="speech-bubble fluent">80%</div>
+						<div class="bar-inner fl"></div>
 					</div>
 				</div>
 				<div class="bar">
@@ -472,8 +552,8 @@
 				<div class="bar">
 					<div class="skill">Parallels</div>
 					<div class="bar-outer">
-						<div class="speech-bubble illustrator">90%</div>
-						<div class="bar-inner il"></div>
+						<div class="speech-bubble sketch">95%</div>
+						<div class="bar-inner sk"></div>
 					</div>
 				</div>
 				<div class="bar">
@@ -486,8 +566,15 @@
 				<div class="bar">
 					<div class="skill">Filezilla</div>
 					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
-						<div class="bar-inner fl"></div>
+						<div class="speech-bubble sketch">95%</div>
+						<div class="bar-inner sk"></div>
+					</div>
+				</div>
+				<div class="bar">
+					<div class="skill">Postman</div>
+					<div class="bar-outer">
+						<div class="speech-bubble illustrator">90%</div>
+						<div class="bar-inner il"></div>
 					</div>
 				</div>
 
@@ -496,105 +583,27 @@
 				<div class="bar">
 					<div class="skill">Tinker</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
+						<div class="speech-bubble html">75%</div>
 						<div class="bar-inner ht"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Bootstrap</div>
 					<div class="bar-outer">
-						<div class="speech-bubble jquery">55%</div>
-						<div class="bar-inner jq"></div>
+						<div class="speech-bubble sketch">95%</div>
+						<div class="bar-inner sk"></div>
 					</div>
 				</div>
 				<div class="bar">
 					<div class="skill">Tailwind</div>
 					<div class="bar-outer">
-						<div class="speech-bubble sketch">90%</div>
+						<div class="speech-bubble sketch">95%</div>
 						<div class="bar-inner sk"></div>
 					</div>
 				</div>
-				<div class="bar">
-					<div class="skill">Ruby on Rails</div>
-					<div class="bar-outer">
-						<div class="speech-bubble photo">75%</div>
-						<div class="bar-inner ph"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">Django</div>
-					<div class="bar-outer">
-						<div class="speech-bubble illustrator">90%</div>
-						<div class="bar-inner il"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">ASP.NET</div>
-					<div class="bar-outer">
-						<div class="speech-bubble indesign">85%</div>
-						<div class="bar-inner in"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">Angular</div>
-					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
-						<div class="bar-inner fl"></div>
-					</div>
-				</div>
-
-				<!-- Hardware skills -->
-				<h1 class="title-skills">Hardware</h1>
-				<div class="bar">
-					<div class="skill">VScode</div>
-					<div class="bar-outer">
-						<div class="speech-bubble html">85%</div>
-						<div class="bar-inner ht"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">Tableplus</div>
-					<div class="bar-outer">
-						<div class="speech-bubble jquery">55%</div>
-						<div class="bar-inner jq"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">GITHUB Terminal Commands</div>
-					<div class="bar-outer">
-						<div class="speech-bubble sketch">90%</div>
-						<div class="bar-inner sk"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">GUTHUB desktop</div>
-					<div class="bar-outer">
-						<div class="speech-bubble photo">75%</div>
-						<div class="bar-inner ph"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">Parallels</div>
-					<div class="bar-outer">
-						<div class="speech-bubble illustrator">90%</div>
-						<div class="bar-inner il"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">VituralBox</div>
-					<div class="bar-outer">
-						<div class="speech-bubble indesign">85%</div>
-						<div class="bar-inner in"></div>
-					</div>
-				</div>
-				<div class="bar">
-					<div class="skill">Filezilla</div>
-					<div class="bar-outer">
-						<div class="speech-bubble fluent">75%</div>
-						<div class="bar-inner fl"></div>
-					</div>
-				</div>
-
+				
+				<br><br>
+				<p><a class="scroll button primary" href="#top">Back to the top</a></p>
 			</article>
 
 			<!-- About -->
@@ -612,8 +621,9 @@
 			<article id="contact">
 				<h2 class="major">Contact</h2>
 				<ul class="actions">
+					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
-					<li><a href="#photography" class="button">Art Worx</a></li>
+					<li><a href="#photography" class="button">Photos</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
 				</ul>
 				<form action="" id="form" method="post" name="form">

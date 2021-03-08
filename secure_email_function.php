@@ -16,13 +16,15 @@ echo "Invalid Email Address";
 else{
 $name = $_POST['vname'];
 $message = $_POST['msg'];
-$headers = 'From:'. $email2 . "rn"; // Sender's Email
-$headers .= 'Cc:'. $email2 . "rn"; // Carbon copy to Sender
+$headers = 'From:'. $email . "\r\n". // Sender's Email
+           'Cc:'. $email . "\r\n". // Carbon copy to Sender
+           'Reply-To: '. $email ."\r\n" .
+           'X-Mailer: PHP/' . phpversion();
 // Message lines should not exceed 70 characters (PHP rule), so wrap it
 $message = wordwrap($message, 70);
 // Send Mail By PHP Mail Function
 mail("info@codedad.ca", $name, $message, $headers);
-echo "Your mail has been sent successfuly ! Thank you for contacting Code Dad" . "<br>Please allow 24 to 48 hours for a reply";
+echo "Your mail has been sent successfuly ! Thank you for contacting Code Dad" . "<br>Please allow 24 to 48 hours for a reply<br>";
 }
 }
 }

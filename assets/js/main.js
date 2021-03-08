@@ -412,6 +412,7 @@ const textArray = [
   "Designer",
   "Programmer",
   "Musician",
+  "Astronomer",
   "Photographer",
   "Drone Pilot",
   "Husband",
@@ -458,12 +459,6 @@ document.addEventListener("DOMContentLoaded", function () {
   // On DOM Load initiate the effect
   if (textArray.length) setTimeout(type, newTextDelay + 250);
 });
-
-/*
-    Landed by Yasin Burak KALKAN
-    Yasin Burak Kalkan | Front-End Developer
-    www.yasinkalkan.com
-*/
 
 $(document).ready(documentReady);
 
@@ -568,34 +563,18 @@ function documentReady() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//The bars in the skills section
 var skills = {
 	ht: 75,
-	jq: 25,
-	sk: 90,
+	jq: 55,
+	sk: 95,
 	ph: 75,
 	il: 90,
 	in: 85,
-	fl: 75
+	fl: 80,
+	ex: 65,
+	da: 40,
+	ma: 100
   };
   
   $.each(skills, function (key, value) {
@@ -672,10 +651,10 @@ $(".hover").mouseleave(
   
   let charts = [];
   
-  //Adjust the percentages in the circles
+  //Adjust the percentages in the circles in the interest section
   charts.push(new Chart(aPath, aText, 100));
-  charts.push(new Chart(bPath, bText,50));
-  charts.push(new Chart(gPath, gText, 75));
+  charts.push(new Chart(bPath, bText,85));
+  charts.push(new Chart(gPath, gText, 95));
   
   function Frame() {
 	rid = window.requestAnimationFrame(Frame);
@@ -703,28 +682,27 @@ $(".hover").mouseleave(
 
 
 
+/* Used to make images big on click
+The problem is the overlay on the images is blocking the click
+so until I can get a better way to do this I will leave out the click to 
+enlarge feature */
+// // Get the modal
+// var modal = document.getElementById("myModal");
 
-  
+// // Get the image and insert it inside the modal - use its "alt" text as a caption
+// var img = document.getElementById("myImg");
+// var modalImg = document.getElementById("img01");
+// var captionText = document.getElementById("caption");
+// img.onclick = function(){
+//   modal.style.display = "block";
+//   modalImg.src = this.src;
+//   captionText.innerHTML = this.alt;
+// }
 
+// // Get the <span> element that closes the modal
+// var span = document.getElementsByClassName("close")[0];
 
-
-
-
-
-//   //script to set display property
-         
-//             img = document.getElementById("pic2"); 
-//             // Function to increase image size 
-//       function enlargeImg() { 
-//         // Set image size to 1.5 times original 
-//         img.style.transform = "scale(1.5)"; 
-//         // Animation effect  
-//         img.style.transition = "transform 0.25s ease"; 
-//       } 
-//       // Function to reset image size 
-//       function resetImg() { 
-//         // Set image size to original 
-//         img.style.transform = "scale(1)"; 
-//         img.style.transition = "transform 0.25s ease"; 
-//       } 
-    
+// // When the user clicks on <span> (x), close the modal
+// span.onclick = function() { 
+//   modal.style.display = "none";
+// }

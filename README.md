@@ -1,4 +1,4 @@
 # Richard---portfolio-site
 
-![alt text](images/codedad.png.png)
-![Alt text](images/codedad.jpg?raw=true "Title")
+![alt text](images/codedad.png)
+![Alt text](images/codedad.png?raw=true "Title")

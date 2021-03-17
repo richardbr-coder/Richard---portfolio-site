@@ -6,12 +6,38 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
+	<link rel="icon" type="image/png" href="favicon-196x196.png" sizes="196x196" />
+	<link rel="icon" type="image/png" href="favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
+	<meta name="application-name" content="&nbsp;"/>
+	<meta name="msapplication-TileColor" content="#FFFFFF" />
+	<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
 	<noscript>
 		<link rel="stylesheet" href="assets/css/noscript.css" />
 	</noscript>
 </head>
 
-<!-- Include "is-preload" in the body class to pre load the whole site on first load -->
+<!-- 
+Include "is-preload" in the body class to pre load the whole site on first load.
+Of course this will cause the site load slowly because of all the images being in full res.
+I could just make them low res JPG's but do not want to, the current setup has the images
+loading as they are viewed. 
+-->
 <body class="">
 
 	<!-- Wrapper -->
@@ -113,7 +139,7 @@
 				</div>
 
 				<p>
-					Welcome to my personal portfolio site! Glad you came! Keep reading to find out a little about me. Hit up the contact form to 
+					Welcome to my personal portfolio site! Glad you came! Keep reading to find out a little about me. Head over to the contact form to 
 					let me know if you like the sites design! Or just to chat! <a href="#contact">CONTACT ME</a>
 				</p>
 
@@ -127,16 +153,16 @@
 					<br><br> 
 					
 					This is my quote, I feel like it encomposes how I approach most 
-					things, looking for the truth. Striving to find the things that will make ones self a better self. Looking to the nominal, repeatable, and  
-					testable for verification. Although not always neccessary, or approaiate, sometimes you have to take chances and risk everything, but you'd better 
+					things, searching for the truth. Striving to find the inspiration and motivation to accelerate the inevitable, 
+					the qualatative imprinting itself in what interest you, continuing to look to the nominal, testability repeatable for verification. Although not always neccessary, or approaiate, sometimes you have to take chances and risk everything, but you'd better 
 					be ready and willing to celebrate or take responibility for any and all failures along the way. Sometimes failing is where the best lessons are 
 					learned but no matter the outcome there's one thing I can guarantee, I'll be ready to take the plunge! 
 				</p>
 
 				<p>
 					I am a Canadian Forces Veteran, after retiring from Canada's Armoured Core with the Department Of National Defense, I received many types of educational recoginion 
-					from serveral different instructions throughout Newfoundland. While attending Memorial Universery of Newfoundland or College of the North Atlantic I became educated in Electrical Enineering, Software Development, 
-					Psychology and Sociology. Outside of the interest above I have a solid background in astronomy, drone building and design, electrical engineering, electronics, 
+					from serveral instructions throughout Newfoundland. While attending Memorial Universery of Newfoundland or College of the North Atlantic I became educated in Electrical Enineering, Software Development, 
+					Psychology and Sociology. Outside of the interest above I have a solid background in astronomy, drone building and design, electronics, 
 					advanced computer systems and design, networking, data science, and botany.
 				</p>
 
@@ -513,7 +539,7 @@
 				</div>
 
 				<!-- Software skills -->
-				<h1 class="title-skills">Software/Programs</h1>
+				<h1 class="title-skills">Software</h1>
 				<div class="bar">
 					<div class="skill">Terminal</div>
 					<div class="bar-outer">
@@ -912,7 +938,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<footer id="footer">
 			<p class="copyright">&copy;
 				<script>document.write(new Date().getFullYear())</script> CODEDAD.
-				Designed By: Richard Randell
+				
 			</p>
 		</footer>
 

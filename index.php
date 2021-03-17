@@ -685,9 +685,10 @@ loading as they are viewed.
 				</ul>
 
 				<br>
-				<h3><a href="movie.thenovalab.ca">Movie App</a></h3>
-				<p>To test the live application just click the underlined project name above or <a href="movie.thenovalab.ca">Click Here</a></p>
-				<a href="https://github.com/richardbr-coder/Movie">
+				<h2>Movie App</h2>
+				<p>View live site: <a href="https://movie.thenovalab.ca/">Movie Web Application</a><br>
+				View Github repo: <a href="https://github.com/richardbr-coder/Movie">Movie Web Application</a></P>
+				<a href="https://movie.thenovalab.ca/">
 					<figure class="snip1504">
 					<img src="images/png.png" alt="CBS" />
 						<figcaption>
@@ -698,9 +699,10 @@ loading as they are viewed.
 				</a>
 				<br><br>
 				
-				<h3><a href="thenovalab.ca">NOVALAB</a></h3>
-				<p>To visit NOVALAB or to just have a look around just click the underlined website name above or <a href="thenovalab.ca">Click Here</a></p>
-				<a href="https://github.com/richardbr-coder/R">
+				<h2>NOVALAB</h2>
+				<p>View live site: <a href="https://thenovalab.ca/">NOVALAB</a><br>
+				View Github repo: <a href="https://github.com/richardbr-coder/Richard_portfolio_site">NOVALAB</a></P>
+				<a href="https://thenovalab.ca/">
 					<figure class="snip1504">
 					<img src="images/novalab.png" alt="CBS" />
 						<figcaption>

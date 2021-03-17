@@ -82,6 +82,7 @@ loading as they are viewed.
 					<li><a href="#photography">Photos</a></li>
 					<li><a href="#skills">Skills</a></li>
 					<!--<li><a href="https://blog.codedad.ca">blog</a></li>-->
+					<li><a href="#projects">Projects</a></li>
 					<li><a href="#contact">contact</a></li>
 					<!-- <li><a href="#elements">Elements</a></li> -->
 				</ul>
@@ -98,8 +99,13 @@ loading as they are viewed.
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#photography" class="button">Photos</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
+					<li><a href="#projects" class="button">Works</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
 				</ul>
+				
 				<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
 
 				<h2>Interest</h2>
@@ -182,6 +188,10 @@ loading as they are viewed.
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
+					<li><a href="#projects" class="button">Works</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
 				</ul>
 				<p>Photography Works, a page where I highlight my own favorite photography shots. These were all taken by me over the last
@@ -308,6 +318,10 @@ loading as they are viewed.
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#photography" class="button">Photos</a></li>
+					<li><a href="#projects" class="button">Works</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
 				</ul>
 				<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
@@ -643,6 +657,65 @@ loading as they are viewed.
 					dolor sit amet.</p>
 			</article>
 
+			<!-- Projects -->
+			<article id="projects">
+				<h2 class="major">Projects</h2>
+				<ul class="actions">
+					<li><a href="#" class="button">Home</a></li>
+					<li><a href="#intro" class="button">Meet Me</a></li>
+					<li><a href="#photography" class="button">Photos</a></li>
+					<li><a href="#skills" class="button">Skills</a></li>
+				</ul>
+				<ul class="actions">
+					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
+					<li><a href="#contact" class="button">Contact</a></li>
+				</ul>
+
+				<p>
+					The following projects are some of the projects that I have completed. Hover of the image to see some
+					details about the project. If you clikc on the image it will take you to a github repo, codepen, dropbox folder or other online
+					project space. Any projects that are live on my hosting account have active links, just click the underlined name!
+				</p>
+
+				<ul class="icons">
+					<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li>
+					<li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+					<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
+					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+				</ul>
+
+				<br>
+				<h3><a href="movie.thenovalab.ca">Movie App</a></h3>
+				<p>To test the live application just click the underlined project name above or <a href="movie.thenovalab.ca">Click Here</a></p>
+				<a href="https://github.com/richardbr-coder/Movie">
+					<figure class="snip1504">
+					<img src="images/png.png" alt="CBS" />
+						<figcaption>
+							<h3>Project: Movie</h3>
+							<h5 style="color:white;">A movie steaming web application based on Laravel, TheMovieDB API and Livewire </h5>
+						</figcaption>
+					</figure>
+				</a>
+				<br><br>
+				
+				<h3><a href="thenovalab.ca">NOVALAB</a></h3>
+				<p>To visit NOVALAB or to just have a look around just click the underlined website name above or <a href="thenovalab.ca">Click Here</a></p>
+				<a href="https://github.com/richardbr-coder/R">
+					<figure class="snip1504">
+					<img src="images/novalab.png" alt="CBS" />
+						<figcaption>
+							<h3>Project: NOVALAB</h3>
+							<h5 style="color:white;">This is my development company, click to be taken to the github repo</h5>
+						</figcaption>
+					</figure>
+				</a>
+				<br><br>
+
+				
+				<br><br>
+				<p><a class="scroll button primary" href="#top">Back to the top</a></p>
+			</article>
+
 			<!-- Contact -->
 			<article id="contact">
 				<h2 class="major">Contact</h2>
@@ -651,6 +724,12 @@ loading as they are viewed.
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#photography" class="button">Photos</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
+					
+				</ul>
+				<ul class="actions">
+					<li><a href="#projects" class="button">Works</a></li>
+					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
+					
 				</ul>
 				<form action="" id="form" method="post" name="form">
 					<div class="fields">
@@ -674,11 +753,10 @@ loading as they are viewed.
 				</form>
 				<?php include "secure_email_function.php"?><br>
 				<ul class="icons">
-					<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span
-								class="label">GitHub</span></a></li>
+					<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li>
+					<li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+					<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
+					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 				</ul>
 			</article>
 
@@ -953,6 +1031,9 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 	<script src="assets/js/breakpoints.min.js"></script>
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.10/vue.min.js"></script>
+	<script src="https://unpkg.com/vue-the-mask@0.11.1/dist/vue-the-mask.js"></script>
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 

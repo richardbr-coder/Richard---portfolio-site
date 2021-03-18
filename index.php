@@ -701,7 +701,7 @@ loading as they are viewed.
 				
 				<h2>NOVALAB</h2>
 				<p> View live site: <a href="https://thenovalab.ca/">NOVALAB</a><br>
-					View Github repo: <a href="">NOVALAB</a></P>
+					View Github repo: <a href="https://github.com/richardbr-coder/NOVALAB">NOVALAB</a></P>
 				<a href="https://thenovalab.ca/">
 					<figure class="snip1504">
 					<img src="images/novalab.png" alt="CBS" />
@@ -719,6 +719,20 @@ loading as they are viewed.
 				<a href="https://codedad.ca/">
 					<figure class="snip1504">
 					<img src="images/codedad.png" alt="CBS" />
+						<figcaption>
+							<h3>Project: NOVALAB</h3>
+							<h5 style="color:white;">This is my development company, click to be taken to the live site</h5>
+						</figcaption>
+					</figure>
+				</a>
+				<br><br>
+
+				<h2>E-commerce Template</h2>
+				<p> View live site: <a href="http://ecom.thenovalab.ca/index.html">CODEDAD</a><br>
+					View Github repo: <a href="https://github.com/richardbr-coder/eCom-Website-template">CODEDAD</a></P>
+				<a href="http://ecom.thenovalab.ca/index.html">
+					<figure class="snip1504">
+					<img src="images/ecom.png" alt="CBS" />
 						<figcaption>
 							<h3>Project: NOVALAB</h3>
 							<h5 style="color:white;">This is my development company, click to be taken to the live site</h5>

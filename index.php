@@ -707,7 +707,7 @@ loading as they are viewed.
 					<img src="images/novalab.png" alt="CBS" />
 						<figcaption>
 							<h3>Project: NOVALAB</h3>
-							<h5 style="color:white;">This is my development company, click to be taken to the github repo</h5>
+							<h5 style="color:white;">This is my development company, click to be taken to the live site</h5>
 						</figcaption>
 					</figure>
 				</a>

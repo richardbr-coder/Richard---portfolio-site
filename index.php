@@ -692,7 +692,7 @@ loading as they are viewed.
 					<figure class="snip1504">
 					<img src="images/png.png" alt="CBS" />
 						<figcaption>
-							<h3>Project: Movie</h3>
+							<h3>Project: Movie App</h3>
 							<h5 style="color:white;">A movie steaming web application based on Laravel, TheMovieDB API and Livewire </h5>
 						</figcaption>
 					</figure>
@@ -720,22 +720,23 @@ loading as they are viewed.
 					<figure class="snip1504">
 					<img src="images/codedad.png" alt="CBS" />
 						<figcaption>
-							<h3>Project: NOVALAB</h3>
-							<h5 style="color:white;">This is my development company, click to be taken to the live site</h5>
+							<h3>Project: CODEDAD</h3>
+							<h5 style="color:white;">Its this site! Have a look around!</h5>
 						</figcaption>
 					</figure>
 				</a>
 				<br><br>
 
-				<h2>E-commerce Template</h2>
-				<p> View live site: <a href="http://ecom.thenovalab.ca/index.html">CODEDAD</a><br>
-					View Github repo: <a href="https://github.com/richardbr-coder/eCom-Website-template">CODEDAD</a></P>
+				<h2>E-Commerce Template</h2>
+				<p> View live site: <a href="http://ecom.thenovalab.ca/index.html">E-Commerce Template</a><br>
+					View Github repo: <a href="https://github.com/richardbr-coder/eCom-Website-template">E-Commerce Template</a></P>
 				<a href="http://ecom.thenovalab.ca/index.html">
 					<figure class="snip1504">
 					<img src="images/ecom.png" alt="CBS" />
 						<figcaption>
-							<h3>Project: NOVALAB</h3>
-							<h5 style="color:white;">This is my development company, click to be taken to the live site</h5>
+							<h3>Project: E-Commerce Template</h3>
+							<h5 style="color:white;">This is a template that I have been wokring on for E-Commerce websites. The website 
+							that is used as the demo site is a UAV business that sales, builds and repairs custom and pre-manufactured UAVs.</h5>
 						</figcaption>
 					</figure>
 				</a>

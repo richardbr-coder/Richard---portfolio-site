@@ -741,6 +741,21 @@ loading as they are viewed.
 					</figure>
 				</a>
 				<br><br>
+
+				<h2>Personal Portfolio Template</h2>
+				<p> View live site: <a href="http://ecom.thenovalab.ca/index.html">E-Commerce Template</a><br>
+					View Github repo: <a href="https://github.com/richardbr-coder/mysite">E-Commerce Template</a></P>
+				<a href="http://ecom.thenovalab.ca/index.html">
+					<figure class="snip1504">
+					<img src="images/site.png" alt="CBS" />
+						<figcaption>
+							<h3>Project: Personal Portfolio Template</h3>
+							<h5 style="color:white;">A personal portfolio template that I stopped developing. I used aspects of 
+							it to make the code dad site instead.</h5>
+						</figcaption>
+					</figure>
+				</a>
+				<br><br>
 				
 				<br><br>
 				<p><a class="scroll button primary" href="#top">Back to the top</a></p>

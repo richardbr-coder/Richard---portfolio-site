@@ -743,7 +743,7 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>Personal Portfolio Template</h2>
-				<p> View live site: <a href="http://ecom.thenovalab.ca/index.html">E-Commerce Template</a><br>
+				<p> View live site: <a href="http://portfolio-template.codedad.ca/public/index.html">E-Commerce Template</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/mysite">E-Commerce Template</a></P>
 				<a href="http://ecom.thenovalab.ca/index.html">
 					<figure class="snip1504">

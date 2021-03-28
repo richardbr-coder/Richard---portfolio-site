@@ -743,9 +743,9 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>Personal Portfolio Template</h2>
-				<p> View live site: <a href="http://portfolio-template.codedad.ca/public/index.html">E-Commerce Template</a><br>
-					View Github repo: <a href="https://github.com/richardbr-coder/mysite">E-Commerce Template</a></P>
-				<a href="http://ecom.thenovalab.ca/index.html">
+				<p> View live site: <a href="http://portfolio-template.codedad.ca/public/index.html">Personal Portfolio Template</a><br>
+					View Github repo: <a href="https://github.com/richardbr-coder/mysite">Personal Portfolio Template</a></P>
+				<a href="http://portfolio-template.codedad.ca/public/index.html">
 					<figure class="snip1504">
 					<img src="images/site.png" alt="CBS" />
 						<figcaption>

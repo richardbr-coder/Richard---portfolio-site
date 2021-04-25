@@ -19,6 +19,7 @@
 	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
 	<link rel="icon" type="image/png" href="favicon-128.png" sizes="128x128" />
+	<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.1.1/tailwind.min.css"/> -->
 	<meta name="application-name" content="&nbsp;"/>
 	<meta name="msapplication-TileColor" content="#FFFFFF" />
 	<meta name="msapplication-TileImage" content="mstile-144x144.png" />
@@ -30,6 +31,16 @@
 	<noscript>
 		<link rel="stylesheet" href="assets/css/noscript.css" />
 	</noscript>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-NKY3V3SHDW"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-NKY3V3SHDW');
+	</script>
 </head>
 
 <!-- 
@@ -63,16 +74,14 @@ loading as they are viewed.
 					</b>
 					<ul style="justify-content: center;" class="actions">
 						<li><a href="https://thenovalab.ca/" class="button primary">NOVALAB</a></li>
-						<!--<li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li>-->
+						<li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li>
 					</ul>
 					<ul class="icons">
-						<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB
-									Blog</span></a></li>
-						<li><a href="#" class="icon brands fa-stack-overflow"><span class="label">Stack
-									Overflow</span></a></li>
-						<li><a href="#" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
-						<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span
-									class="label">GitHub</span></a></li>
+						<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"></a></li>
+						<!-- <li><a href="#" class="icon brands fa-stack-overflow"><span class="label">Stack
+									Overflow</span></a></li> -->
+						<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"></a></li>
+						<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"></a></li>
 					</ul>
 				</div>
 			</div>
@@ -183,7 +192,7 @@ loading as they are viewed.
 
 			<!-- Photograpghy -->
 			<article id="photography">
-				<h2 class="major">Photography Works</h2>
+				<h2 class="major">Photos</h2>
 				<ul class="actions">
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
@@ -313,7 +322,7 @@ loading as they are viewed.
 
 			<!-- skills -->
 			<article id="skills">
-				<h2 class="major">Developmental Skills</h2>
+				<h2 class="major">Dev Skills</h2>
 				<ul class="actions">
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
@@ -679,21 +688,39 @@ loading as they are viewed.
 
 				<ul class="icons">
 					<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li>
-					<li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+					<!-- <li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li> -->
 					<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
 					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 				</ul>
 
 				<br>
 				<h2>Movie App</h2>
-				<p> View live site: <a href="https://movie.thenovalab.ca/">Movie Web Application</a><br>
+				<p> View live site: <a href="https://movie.codedad.ca/movie/">Movie Web Application</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/Movie">Movie Web Application</a></P>
-				<a href="https://movie.thenovalab.ca/">
+				<a href="https://movie.codedad.ca/movie/">
 					<figure class="snip1504">
 					<img src="images/png.png" alt="CBS" />
 						<figcaption>
 							<h3>Project: Movie App</h3>
-							<h5 style="color:white;">A movie steaming web application based on Laravel, TheMovieDB API and Livewire </h5>
+							<h5 style="color:white;">A movie steaming web application based on Laravel, TheMovieDB API and Livewire. I am 
+							adding functionally to allow an admin to add their own movies along side the API in its own database. 
+							</h5>
+						</figcaption>
+					</figure>
+				</a>
+				<br><br>
+
+				<h2>PHP E-Comm Example</h2>
+				<p> View live site: <a href="http://phpecom.codedad.ca/shoppingcart/">PHP E-Comm Example Application</a><br>
+					View Github repo: <a href="https://github.com/richardbr-coder/PHP_Ecom">PHP E-Comm Example Application</a></P>
+				<a href="http://phpecom.codedad.ca/shoppingcart/">
+					<figure class="snip1504">
+					<img src="images/ecom2.png" alt="CBS" />
+						<figcaption>
+							<h3>Project: PHP E-Comm Example</h3>
+							<h5 style="color:white;">A PHP E-Comm example. This is a working shopping cart with an attached database, the next step would be to add
+							admin/user validation. Coming soon!
+							</h5>
 						</figcaption>
 					</figure>
 				</a>
@@ -799,7 +826,7 @@ loading as they are viewed.
 				<?php include "secure_email_function.php"?><br>
 				<ul class="icons">
 					<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li>
-					<li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li>
+					<!-- <li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li> -->
 					<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
 					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 				</ul>

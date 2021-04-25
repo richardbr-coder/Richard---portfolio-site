@@ -69,12 +69,12 @@ loading as they are viewed.
 						something more recognisable...the truth.
 					</p>
 					<b>
-						<p style="margin-bottom: 1%; ">Are you ready to meet me?</p>
-						<p style="margin-bottom: 1%; ">Want to hire me? Contact me <a href="#contact">HERE</a> or visit NOVALAB, my software development business.</p>
+						<p style="margin-bottom: 1%; ">Ready to meet me?</p>
+						<p style="margin-bottom: 1%; ">Want to hire me? Contact me <a href="#contact">HERE</a> or check out my freelance dev team at NOVALAB</p>
 					</b>
 					<ul style="justify-content: center;" class="actions">
 						<li><a href="https://thenovalab.ca/" class="button primary">NOVALAB</a></li>
-						<li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li>
+						<!-- <li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li> -->
 					</ul>
 					<ul class="icons">
 						<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"></a></li>
@@ -694,16 +694,32 @@ loading as they are viewed.
 				</ul>
 
 				<br>
-				<h2>Movie App</h2>
-				<p> View live site: <a href="https://movie.codedad.ca/movie/">Movie Web Application</a><br>
+				<h2>PHP Movie App</h2>
+				<p> View live demo: <a href="https://movie.codedad.ca/movie/">PHP Movie Web Application</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/Movie">Movie Web Application</a></P>
 				<a href="https://movie.codedad.ca/movie/">
 					<figure class="snip1504">
-					<img src="images/png.png" alt="CBS" />
+					<img src="images/png.png" alt="PHP" />
 						<figcaption>
 							<h3>Project: Movie App</h3>
-							<h5 style="color:white;">A movie steaming web application based on Laravel, TheMovieDB API and Livewire. I am 
-							adding functionally to allow an admin to add their own movies along side the API in its own database. 
+							<h5 style="color:white;">A movie steaming web application based on Laravel, TheMovieDB API and Livewire. A fully 
+							integrated administration and user system. 
+							</h5>
+						</figcaption>
+					</figure>
+				</a>
+				<br><br>
+
+				<br>
+				<h2>JavaScript Movie App</h2>
+				<p> View live demo: <a href="http://movie-javascript.codedad.ca/">JavaScript Movie Web Application</a><br>
+					View Github repo: <a href="https://github.com/richardbr-coder/movieapp-javascript-">JavaScript Movie Web Application</a></P>
+				<a href="https://movie.codedad.ca/movie/">
+					<figure class="snip1504">
+					<img src="images/javascriptMovieCover.png" alt="Javascript" />
+						<figcaption>
+							<h3>Project: Movie App</h3>
+							<h5 style="color:white;">A movie steaming web application built from the ground up on JavaScript, movie details come from TheMovieDB with search function.
 							</h5>
 						</figcaption>
 					</figure>
@@ -711,11 +727,11 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>PHP E-Comm Example</h2>
-				<p> View live site: <a href="http://phpecom.codedad.ca/shoppingcart/">PHP E-Comm Example Application</a><br>
+				<p> View live demo: <a href="http://phpecom.codedad.ca/shoppingcart/">PHP E-Comm Example Application</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/PHP_Ecom">PHP E-Comm Example Application</a></P>
 				<a href="http://phpecom.codedad.ca/shoppingcart/">
 					<figure class="snip1504">
-					<img src="images/ecom2.png" alt="CBS" />
+					<img src="images/ecom2.png" alt="PHP" />
 						<figcaption>
 							<h3>Project: PHP E-Comm Example</h3>
 							<h5 style="color:white;">A PHP E-Comm example. This is a working shopping cart with an attached database, the next step would be to add
@@ -727,11 +743,11 @@ loading as they are viewed.
 				<br><br>
 				
 				<h2>NOVALAB</h2>
-				<p> View live site: <a href="https://thenovalab.ca/">NOVALAB</a><br>
+				<p> View live demo: <a href="https://thenovalab.ca/">NOVALAB</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/NOVALAB">NOVALAB</a></P>
 				<a href="https://thenovalab.ca/">
 					<figure class="snip1504">
-					<img src="images/novalab.png" alt="CBS" />
+					<img src="images/novalab.png" alt="NOVALAB" />
 						<figcaption>
 							<h3>Project: NOVALAB</h3>
 							<h5 style="color:white;">This is my development company, click to be taken to the live site</h5>
@@ -741,11 +757,11 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>CODEDAD</h2>
-				<p> View live site: <a href="https://codedad.ca/">CODEDAD</a><br>
+				<p> View live demo: <a href="https://codedad.ca/">CODEDAD</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/Richard_portfolio_site">CODEDAD</a></P>
 				<a href="https://codedad.ca/">
 					<figure class="snip1504">
-					<img src="images/codedad.png" alt="CBS" />
+					<img src="images/codedad.png" alt="CODEDAD" />
 						<figcaption>
 							<h3>Project: CODEDAD</h3>
 							<h5 style="color:white;">Its this site! Have a look around!</h5>
@@ -755,11 +771,11 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>E-Commerce Template</h2>
-				<p> View live site: <a href="http://ecom.thenovalab.ca/index.html">E-Commerce Template</a><br>
+				<p> View live demo: <a href="http://ecom.thenovalab.ca/index.html">E-Commerce Template</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/eCom-Website-template">E-Commerce Template</a></P>
 				<a href="http://ecom.thenovalab.ca/index.html">
 					<figure class="snip1504">
-					<img src="images/ecom.png" alt="CBS" />
+					<img src="images/ecom.png" alt="ECOM" />
 						<figcaption>
 							<h3>Project: E-Commerce Template</h3>
 							<h5 style="color:white;">This is a template that I have been wokring on for E-Commerce websites. The website 
@@ -770,11 +786,11 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>Personal Portfolio Template</h2>
-				<p> View live site: <a href="http://portfolio-template.codedad.ca/public/index.html">Personal Portfolio Template</a><br>
+				<p> View live demo: <a href="http://portfolio-template.codedad.ca/public/index.html">Personal Portfolio Template</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/mysite">Personal Portfolio Template</a></P>
 				<a href="http://portfolio-template.codedad.ca/public/index.html">
 					<figure class="snip1504">
-					<img src="images/site.png" alt="CBS" />
+					<img src="images/site.png" alt="TEMPLATE" />
 						<figcaption>
 							<h3>Project: Personal Portfolio Template</h3>
 							<h5 style="color:white;">A personal portfolio template that I stopped developing. I used aspects of 

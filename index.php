@@ -73,9 +73,11 @@ loading as they are viewed.
 						<p style="margin-bottom: 1%; ">Want to hire me? Contact me <a href="#contact">HERE</a> or check out my freelance dev team at NOVALAB</p>
 					</b>
 					<ul style="justify-content: center;" class="actions">
-						<li><a href="https://thenovalab.ca/" class="button primary">NOVALAB</a></li>
+						<li><a href="https://thenovalab.ca/" class="button primary" target="_blank">NOVALAB</a></li>
+						<li><a href="https://projects.richardrandell.ca" class="button primary" target="_blank">Projects (UNDERDEVELPMENT)</a></li>
 						<!-- <li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li> -->
 					</ul>
+					
 					<ul class="icons">
 						<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"></a></li>
 						<!-- <li><a href="#" class="icon brands fa-stack-overflow"><span class="label">Stack
@@ -435,8 +437,8 @@ loading as they are viewed.
 				<div class="bar">
 					<div class="skill">C++</div>
 					<div class="bar-outer">
-						<div class="speech-bubble html">75%</div>
-						<div class="bar-inner ht"></div>
+						<div class="speech-bubble html">90%</div>
+						<div class="bar-inner il"></div>
 					</div>
 				</div>
 				<div class="bar">
@@ -459,8 +461,8 @@ loading as they are viewed.
 				<div class="bar">
 					<div class="skill">Laravel</div>
 					<div class="bar-outer">
-						<div class="speech-bubble indesign">85%</div>
-						<div class="bar-inner in"></div>
+						<div class="speech-bubble indesign">95%</div>
+						<div class="bar-inner sk"></div>
 					</div>
 				</div>
 				<div class="bar">
@@ -473,15 +475,15 @@ loading as they are viewed.
 				<div class="bar">
 					<div class="skill">NPM</div>
 					<div class="bar-outer">
-						<div class="speech-bubble fluent">80%</div>
-						<div class="bar-inner fl"></div>
+						<div class="speech-bubble fluent">90%</div>
+						<div class="bar-inner il"></div>
 					</div>
 				</div>
 				<div class="bar">
-					<div class="skill">NODE js</div>
+					<div class="skill">NODE.js</div>
 					<div class="bar-outer">
-						<div class="speech-bubble photo">75%</div>
-						<div class="bar-inner ph"></div>
+						<div class="speech-bubble photo">80%</div>
+						<div class="bar-inner fl"></div>
 					</div>
 				</div>
 				<div class="bar">
@@ -501,12 +503,12 @@ loading as they are viewed.
 				<div class="bar">
 					<div class="skill">Vue.js</div>
 					<div class="bar-outer">
-						<div class="speech-bubble jquery">55%</div>
-						<div class="bar-inner jq"></div>
+						<div class="speech-bubble jquery">85%</div>
+						<div class="bar-inner fl"></div>
 					</div>
 				</div>
 				<div class="bar">
-					<div class="skill">Angular</div>
+					<div class="skill">AngularJS</div>
 					<div class="bar-outer">
 						<div class="speech-bubble html">75%</div>
 						<div class="bar-inner ht"></div>
@@ -522,8 +524,8 @@ loading as they are viewed.
 				<div class="bar">
 					<div class="skill">Express.js</div>
 					<div class="bar-outer">
-						<div class="speech-bubble express">65%</div>
-						<div class="bar-inner ex"></div>
+						<div class="speech-bubble express">85%</div>
+						<div class="bar-inner fl"></div>
 					</div>
 				</div>
 
@@ -537,12 +539,51 @@ loading as they are viewed.
 					</div>
 				</div>
 				<div class="bar">
+					<div class="skill">PostgreSQL</div>
+					<div class="bar-outer">
+						<div class="speech-bubble sketch">85%</div>
+						<div class="bar-inner fl"></div>
+					</div>
+				</div>
+				<div class="bar">
 					<div class="skill">PHPmyAdmin</div>
 					<div class="bar-outer">
 						<div class="speech-bubble sketch">95%</div>
 						<div class="bar-inner sk"></div>
 					</div>
 				</div>
+
+				<!-- Hosting -->
+				<h1 class="title-skills">Hosting/Servers</h1>
+				<div class="bar">
+					<div class="skill">AWS</div>
+					<div class="bar-outer">
+						<div class="speech-bubble photo">95%</div>
+						<div class="bar-inner sk"></div>
+					</div>
+				</div>
+				<div class="bar">
+					<div class="skill">Shared Hosting</div>
+					<div class="bar-outer">
+						<div class="speech-bubble photo">95%</div>
+						<div class="bar-inner sk"></div>
+					</div>
+				</div>
+				<div class="bar">
+					<div class="skill">Laravel Forge</div>
+					<div class="bar-outer">
+						<div class="speech-bubble photo">95%</div>
+						<div class="bar-inner sk"></div>
+					</div>
+				</div>
+				<div class="bar">
+					<div class="skill">Digital Ocean</div>
+					<div class="bar-outer">
+						<div class="speech-bubble photo">95%</div>
+						<div class="bar-inner sk"></div>
+					</div>
+				</div>
+				
 
 				<!-- Cloud -->
 				<h1 class="title-skills">Cloud Development</h1>
@@ -714,7 +755,7 @@ loading as they are viewed.
 				<h2>JavaScript Movie App</h2>
 				<p> View live demo: <a href="http://movie-javascript.codedad.ca/">JavaScript Movie Web Application</a><br>
 					View Github repo: <a href="https://github.com/richardbr-coder/movieapp-javascript-">JavaScript Movie Web Application</a></P>
-				<a href="https://movie.codedad.ca/movie/">
+				<a href="http://movie-javascript.codedad.ca/">
 					<figure class="snip1504">
 					<img src="images/javascriptMovieCover.png" alt="Javascript" />
 						<figcaption>

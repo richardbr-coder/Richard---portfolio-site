@@ -63,27 +63,26 @@ loading as they are viewed.
 				<div class="inner">
 					<h1>Richard Randell</h1>
 					<span class="fa-2x typed-text"></span><span class="cursor">&nbsp;</span>
-					<p>Inspired by the simple things, driven by the complex. <br>The things that make us who we are is a
-						collection of biological databases derived from previous experiences. The self shifts over time,
-						parsing out destructive objects, leaving us with
-						something more recognisable...the truth.
+					<p><b>Inspired by the simple things, driven by the complex.</b><br>
+						The things that make us who we are is a collection of biological databases derived from previous experiences. The self shifts over time,
+						parsing out destructive objects, leaving us with something more recognizable...the truth.
 					</p>
 					<b>
-						<p style="margin-bottom: 1%; ">Ready to meet me?</p>
-						<p style="margin-bottom: 1%; ">Want to hire me? Contact me <a href="#contact">HERE</a> or check out my freelance dev team at NOVALAB</p>
+						<p style="margin-bottom: .25%; font-size:20px">Ready to meet me?</p>
+						<p style="margin-bottom: 1%; ">Need Development work? Contact me <a href="#contact">HERE</a> or check out my dev team at NOVALAB</p>
 					</b>
 					<ul style="justify-content: center;" class="actions">
 						<li><a href="https://thenovalab.ca/" class="button primary" target="_blank">NOVALAB</a></li>
-						<li><a href="https://projects.richardrandell.ca" class="button primary" target="_blank">Projects (UNDERDEVELPMENT)</a></li>
+						<li><a href="https://projects.richardrandell.ca" class="button primary" target="_blank">My Projects</a></li>
 						<!-- <li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li> -->
 					</ul>
 					
 					<ul class="icons">
-						<li><a href="https://thenovalab.ca/" class="icon brands fa-readme" target="_blank"></a></li>
+						<!-- <li><a href="https://thenovalab.ca/" class="icon brands fa-readme" target="_blank"></a></li> -->
 						<!-- <li><a href="#" class="icon brands fa-stack-overflow"><span class="label">Stack
 									Overflow</span></a></li> -->
-						<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen" target="_blank"></a></li>
-						<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github" target="_blank"></a></li>
+						<li><a href="https://www.linkedin.com/in/codedad/" class="icon brands fa-linkedin" target="_blank"></a> Linkedin</li>
+						<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github" target="_blank"></a> GitHub</li>
 					</ul>
 				</div>
 			</div>
@@ -106,7 +105,7 @@ loading as they are viewed.
 			<!-- Intro -->
 			<article id="intro">
 				<h2 class="major">Meet Me</h2>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#photography" class="button">Photos</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
@@ -115,22 +114,13 @@ loading as they are viewed.
 				<ul class="actions">
 					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
-				</ul>
+				</ul> -->
 				
 				<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
 
 				<h2>Interest</h2>
 				<div id="circle">
-					<div class="innerdiv" contenteditable>
-						<svg viewBox="10 10 30 30">
-							<g id="alpha" transform="translate(25 25) rotate(-90)">
-								<circle id="aCirc" r="10" />
-								<path id="aPath" d=""></path>
-							</g>
-							<text id="aText" x="25" y="25">100</text>
-						</svg>
-						<p contenteditable="false">Software Development</p>
-					</div>
+					
 					<div class="innerdiv" contenteditable>
 						<svg viewBox="10 10 30 30">
 							<g id="beta" transform="translate(25 25) rotate(-90)">
@@ -141,7 +131,7 @@ loading as they are viewed.
 								<tspan>85
 							</text>
 						</svg>
-						<p contenteditable="false">Instrument</p>
+						<p contenteditable="false">Musician</p>
 					</div>
 					<div class="innerdiv" contenteditable>
 						<svg viewBox="10 10 30 30">
@@ -153,11 +143,24 @@ loading as they are viewed.
 						</svg>
 						<p contenteditable="false">Photograpghy</p>
 					</div>
+					<div class="innerdiv" contenteditable>
+						<svg viewBox="10 10 30 30">
+							<g id="alpha" transform="translate(25 25) rotate(-90)">
+								<circle id="aCirc" r="10" />
+								<path id="aPath" d=""></path>
+							</g>
+							<text id="aText" x="25" y="25">100</text>
+						</svg>
+						<p contenteditable="false">Software Development</p>
+					</div>
+
 				</div>
 
 				<p>
 					Welcome to my personal portfolio site! Glad you came! Keep reading to find out a little about me. Head over to the contact form to 
-					let me know if you like the sites design! Or just to chat! <a href="#contact">CONTACT ME</a>
+					let me know if you like the sites design! <br>
+					Or just to chat! <a href="#contact"><b>CONTACT ME</b></a> </li><br>
+					Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
 				</p>
 
 				<p>
@@ -166,26 +169,26 @@ loading as they are viewed.
 					<br><br>
 					"INSPIRED BY THE SIMPLE THINGS, DRIVEN BY THE COMPLEX.", "THE THINGS THAT MAKE US WHO WE ARE IS
 					A COLLECTION OF BIOLOGICAL DATABASES DERIVED FROM PREVIOUS EXPERIENCES. THE SELF SHIFTS OVER TIME, PARSING OUT DESTRUCTIVE OBJECTS, 
-					LEAVING US WITH SOMETHING MORE RECOGNISABLE...THE TRUTH."
+					LEAVING US WITH SOMETHING MORE RECOGNIZABLE...THE TRUTH."
 					<br><br> 
 					
-					This is my quote, I feel like it encomposes how I approach most 
-					things, searching for the truth. Striving to find the inspiration and motivation to accelerate the inevitable, 
-					the qualatative imprinting itself in what interest you, continuing to look to the nominal, testability repeatable for verification. Although not always neccessary, or approaiate, sometimes you have to take chances and risk everything, but you'd better 
-					be ready and willing to celebrate or take responibility for any and all failures along the way. Sometimes failing is where the best lessons are 
+					I feel like this encompasses how I approach most 
+					things in business as well as life, searching for truth. Striving to find the inspiration, motivation and drive to accelerate the inevitable.
+					The qualitative imprinting itself into everything that interest you, continuing to look to the nominal, testable and repeatable for verification. Although not always necessary, or appropriate, sometimes you have to take a chance and risk everything, but you'd better 
+					be ready and willing to celebrate a victory or take responsibility for any and all failures along the way. Sometimes failing is where the best lessons are 
 					learned but no matter the outcome there's one thing I can guarantee, I'll be ready to take the plunge! 
 				</p>
 
 				<p>
-					I am a Canadian Forces Veteran, after retiring from Canada's Armoured Core with the Department Of National Defense, I received many types of educational recoginion 
-					from serveral instructions throughout Newfoundland. While attending Memorial Universery of Newfoundland or College of the North Atlantic I became educated in Electrical Enineering, Software Development, 
-					Psychology and Sociology. Outside of the interest above I have a solid background in astronomy, drone building and design, electronics, 
+					I am a Canadian Forces Veteran, after retiring from Canada's Armoured Core with the Department Of National Defense, I received many types of educational recognition 
+					from several institutions throughout Newfoundland. While attending Memorial University of Newfoundland and The College of the North Atlantic I became educated in Electrical Engineering Technology, Software Development, 
+					Psychology and Sociology. Outside of the my interests above I have a solid background in astronomy, autonomous vehicle engineering, electronics engineering, 
 					advanced computer systems and design, networking, data science, and botany.
 				</p>
 
 				<p>
-					I started a business, <a href="https://thenovalab.ca">NOVALAB</a>. This is a development business, mainly web development with a push to move into making Iphone and Android 
-					apps. If you'd like to reach out please contact me <a href="#contact">HERE</a> or check out the <a href="https://thenovalab.ca">NOVALAB</a> site. 
+					I started a business, <a href="https://thenovalab.ca">NOVALAB</a>, a software development company. If you'd like to reach out please contact me <a href="#contact">HERE</a> or check out the <a href="https://thenovalab.ca">NOVALAB</a> site. 
+					Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
 				</p>
 
 				<p><a class="scroll button primary" href="#top">Back to the top</a></p>
@@ -195,7 +198,7 @@ loading as they are viewed.
 			<!-- Photograpghy -->
 			<article id="photography">
 				<h2 class="major">Photos</h2>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#skills" class="button">Skills</a></li>
@@ -204,14 +207,15 @@ loading as they are viewed.
 				<ul class="actions">
 					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
-				</ul>
+				</ul> -->
 				<p>Photography Works, a page where I highlight my own favorite photography shots. These were all taken by me over the last
-					number of years at different locations thoughout Newfoundland.
+					number of years at different locations throughout Newfoundland.
 					I am the photo snapper and editor of all these photos. All of my photography is done under my
 					photography business name, Mirrorless Photo Studios, which has merged with my development business <a href="https://thenovalab.ca">NOVALAB</a>. If you
-					would like prints, canvas or box frames of any of these photos please <a href="#contact">contact
-						me</a> to request.
+					would like prints, canvas or box frames of any of these photos please <a href="#contact"><b>Contact Me</b></a> to request.
 				</p>
+
+				For More Visit my portfolio: <a href="https://projects.richardrandell.ca/photography/"><b>PORTFOLIO</b></a>
 
 				<figure class="snip1504" >
 					<img id="myImg" src="images/pic2.png" alt="Self portrait"/>
@@ -325,7 +329,7 @@ loading as they are viewed.
 			<!-- skills -->
 			<article id="skills">
 				<h2 class="major">Dev Skills</h2>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#photography" class="button">Photos</a></li>
@@ -334,7 +338,7 @@ loading as they are viewed.
 				<ul class="actions">
 					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
-				</ul>
+				</ul> -->
 				<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 
 				<p>
@@ -344,6 +348,8 @@ loading as they are viewed.
 					This doesn't inlcude things like IDE's, local server enviroments or any other micro skills. The percentage is 
 					based on proficency and ability to problem solve that particular skill. 
 				</p>
+
+				Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
 
 				<!-- OS -->
 				<h1 class="title-skills">Operating Systems</h1>
@@ -717,7 +723,7 @@ loading as they are viewed.
 			<!-- Projects -->
 			<article id="projects">
 				<h2 class="major">Projects</h2>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#photography" class="button">Photos</a></li>
@@ -726,19 +732,23 @@ loading as they are viewed.
 				<ul class="actions">
 					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					<li><a href="#contact" class="button">Contact</a></li>
-				</ul>
+				</ul> -->
 
 				<p>
 					The following projects are some of the projects that I have completed. Hover of the image to see some
 					details about the project. If you clikc on the image it will take you to a github repo, codepen, dropbox folder or other online
-					project space. Any projects that are live on my hosting account have active links, just click the underlined name!
+					project space. Any projects that are live on my hosting account have active links, just click the underlined name!<br><br>
+				
+					Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
+
 				</p>
 
 				<ul class="icons">
-					<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li>
+					<!-- <li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li> -->
 					<!-- <li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li> -->
-					<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
-					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+					<!-- <li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li> -->
+					<li><a href="https://www.linkedin.com/in/codedad/" class="icon brands fa-linkedin" target="_blank"></a> Linkedin</li>
+					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label"></span></a> Github</li>
 				</ul>
 
 				<br>
@@ -752,6 +762,26 @@ loading as they are viewed.
 							<h3>Project: Movie App</h3>
 							<h5 style="color:white;">A movie steaming web application based on Laravel, TheMovieDB API and Livewire. A fully 
 							integrated administration and user system. 
+							</h5>
+						</figcaption>
+					</figure>
+				</a>
+				<br><br>
+
+				<br>
+				<h2>Family Social Media</h2>
+					View live demo: PRIVATE<br>
+					View Github repo: PRIVATE<br>
+					<i style="font-size: 15px;">For intellectual property protection the Github repo and live demo will not be made public.</i>
+				</P>
+				
+				<a href="">
+					<figure class="snip1504">
+					<img src="images/family2.png" alt="Family" />
+						<figcaption>
+							<h3>Project: The Randell Family Social</h3>
+							<h5 style="color:white;">A Social media platform designed to replace the need for any other social media. Removing the like button, notifications and other addictive features of most 
+							modern day sites, this site aims to promote good mental health practices and be sure that the people you interact with online have your best interest in mind.
 							</h5>
 						</figcaption>
 					</figure>
@@ -855,7 +885,7 @@ loading as they are viewed.
 			<!-- Contact -->
 			<article id="contact">
 				<h2 class="major">Contact</h2>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="#" class="button">Home</a></li>
 					<li><a href="#intro" class="button">Meet Me</a></li>
 					<li><a href="#photography" class="button">Photos</a></li>
@@ -866,7 +896,7 @@ loading as they are viewed.
 					<li><a href="#projects" class="button">Works</a></li>
 					<li><a href="https://thenovalab.ca/" class="button">NOVALAB</a></li>
 					
-				</ul>
+				</ul> -->
 				<form action="" id="form" method="post" name="form">
 					<div class="fields">
 						<div class="field half">
@@ -888,11 +918,14 @@ loading as they are viewed.
 					</ul>
 				</form>
 				<?php include "secure_email_function.php"?><br>
+
+				<p>For more projects visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a></p>
 				<ul class="icons">
-					<li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li>
+					<!-- <li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li> -->
 					<!-- <li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li> -->
-					<li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
-					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+					<!-- <li><a href="https://codepen.io/richardbr-coder" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li> -->
+					<li><a href="https://www.linkedin.com/in/codedad/" class="icon brands fa-linkedin" target="_blank"></a> Linkedin</li>
+					<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github"><span class="label"></span></a> Github</li>
 				</ul>
 			</article>
 
@@ -1151,7 +1184,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<!-- Footer -->
 		<footer id="footer">
 			<p class="copyright">&copy;
-				<script>document.write(new Date().getFullYear())</script> CODEDAD.
+				<script>document.write(new Date().getFullYear())</script> Richard Randell.
 				
 			</p>
 		</footer>

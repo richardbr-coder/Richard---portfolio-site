@@ -22,8 +22,8 @@ if (isset($_POST["submit"])) {
             // Message lines should not exceed 70 characters (PHP rule), so wrap it
             $message = wordwrap($message, 70);
             // Send Mail By PHP Mail Function
-            mail("richard@codedad.ca", $name, $message, $headers);
-            echo "Your mail has been sent successfuly! Thank you for contacting Code Dad" . "<br>Please allow 24 to 48 hours for a reply<br>";
+            mail("richardrandell2@gmail.com", $name, $message, $headers);
+            echo "Your mail has been sent successfuly! Thank you for contacting Richard" . "<br>Please allow 24 to 48 hours for a reply<br>";
         }
     }
 }

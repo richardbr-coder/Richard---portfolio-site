@@ -411,12 +411,11 @@ const textArray = [
   "Developer",
   "Designer",
   "Programmer",
+  "Engineer",
   "Musician",
   "Astronomer",
   "Photographer",
-  "Drone Pilot",
-  "Husband",
-  "Dad",
+  "UAV Pilot",
 ];
 const typingDelay = 150;
 const erasingDelay = 100;

@@ -68,12 +68,12 @@ loading as they are viewed.
 						parsing out destructive objects, leaving us with something more recognizable...the truth.
 					</p>
 					<b>
-						<p style="margin-bottom: .25%; font-size:20px">Ready to meet me?</p>
+						<p style="margin-bottom: .25%; font-size:20px">Ready to meet me?</p><br>
 						<!-- <p style="margin-bottom: 1%; ">Need Development work? Contact me <a href="#contact">HERE</a> or check out my dev team at NOVALAB</p> -->
 					</b>
 					<ul style="justify-content: center;" class="actions">
 						<li><a href="https://thenovalab.ca/" class="button primary" target="_blank">NOVALAB</a></li>
-						<li><a href="https://projects.richardrandell.ca" class="button primary" target="_blank">My Projects</a></li>
+						<li><a href="https://projects.richardrandell.ca" class="button primary" target="_blank">Projects</a></li>
 						<!-- <li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li> -->
 					</ul>
 					

@@ -68,14 +68,14 @@ loading as they are viewed.
 						parsing out destructive objects, leaving us with something more recognizable...the truth.
 					</p>
 					<b>
-						<p style="margin-bottom: .25%; font-size:20px">Ready to meet me?</p><br>
+						<!-- <p style="margin-bottom: .25%; font-size:20px">Ready to meet me?</p><br> -->
 						<!-- <p style="margin-bottom: 1%; ">Need Development work? Contact me <a href="#contact">HERE</a> or check out my dev team at NOVALAB</p> -->
 					</b>
-					<ul style="justify-content: center;" class="actions">
+					<!-- <ul style="justify-content: center;" class="actions">
 						<li><a href="https://thenovalab.ca/" class="button primary" target="_blank">NOVALAB</a></li>
-						<li><a href="https://projects.richardrandell.ca" class="button primary" target="_blank">Projects</a></li>
+						<li><a href="https://projects.richardrandell.ca" class="button primary" target="_blank">Projects</a></li> -->
 						<!-- <li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li> -->
-					</ul>
+					<!-- </ul> -->
 					
 					<ul class="icons">
 						<!-- <li><a href="https://thenovalab.ca/" class="icon brands fa-readme" target="_blank"></a></li> -->
@@ -160,7 +160,7 @@ loading as they are viewed.
 					Welcome to my personal portfolio site! Glad you came! Keep reading to find out a little about me. Head over to the contact form to 
 					let me know if you like the sites design! <br>
 					Or just to chat! <a href="#contact"><b>CONTACT ME</b></a> </li><br>
-					Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
+					<!-- Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a> -->
 				</p>
 
 				<p>
@@ -186,10 +186,10 @@ loading as they are viewed.
 					advanced computer systems and design, networking, data science, and botany.
 				</p>
 
-				<p>
+				<!-- <p>
 					I started a business, <a href="https://thenovalab.ca">NOVALAB</a>, a software development company. If you'd like to reach out please contact me <a href="#contact">HERE</a> or check out the <a href="https://thenovalab.ca">NOVALAB</a> site. 
 					Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
-				</p>
+				</p> -->
 
 				<p><a class="scroll button primary" href="#top">Back to the top</a></p>
 
@@ -210,12 +210,12 @@ loading as they are viewed.
 				</ul> -->
 				<p>Photography Works, a page where I highlight my own favorite photography shots. These were all taken by me over the last
 					number of years at different locations throughout Newfoundland.
-					I am the photo snapper and editor of all these photos. All of my photography is done under my
-					photography business name, Mirrorless Photo Studios, which has merged with my development business <a href="https://thenovalab.ca">NOVALAB</a>. If you
+					I'm the photo snapper, and editor of all these photos. All of my photography was done under my
+					photography business name, Mirrorless Photo Studios. If you
 					would like prints, canvas or box frames of any of these photos please <a href="#contact"><b>Contact Me</b></a> to request.
 				</p>
 
-				For More Visit my portfolio: <a href="https://projects.richardrandell.ca/photography/"><b>PORTFOLIO</b></a>
+				<!-- For More Visit my portfolio: <a href="https://projects.richardrandell.ca/photography/"><b>PORTFOLIO</b></a> -->
 
 				<figure class="snip1504" >
 					<img id="myImg" src="images/pic2.png" alt="Self portrait"/>
@@ -345,11 +345,11 @@ loading as they are viewed.
 					Developers need to use a lot of different tools to complete a piece of software. Wether it be a web app or
 					native app the list of utilities and knowledge a developer has to use will change from task to task. To keep
 					this list of skills from being 100's of skills long I have decide to stick to just the core things that developers use.
-					This doesn't inlcude things like IDE's, local server enviroments or any other micro skills. The percentage is 
-					based on proficency and ability to problem solve that particular skill. 
+					This doesn't include things like IDE's, local server environments or any other micro skills. The percentage is 
+					based on proficiency and ability to problem solve that particular skill. 
 				</p>
 
-				Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
+				<!-- Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a> -->
 
 				<!-- OS -->
 				<h1 class="title-skills">Operating Systems</h1>
@@ -739,7 +739,7 @@ loading as they are viewed.
 					details about the project. If you clikc on the image it will take you to a github repo, codepen, dropbox folder or other online
 					project space. Any projects that are live on my hosting account have active links, just click the underlined name!<br><br>
 				
-					Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a>
+					<!-- Or visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a> -->
 
 				</p>
 
@@ -753,7 +753,7 @@ loading as they are viewed.
 
 				<br>
 				<h2>PHP Movie App</h2>
-				<p> View live demo: <a href="https://movie.codedad.ca/movie/">PHP Movie Web Application</a><br>
+				<!-- <p> View live demo: <a href="https://movie.codedad.ca/movie/">PHP Movie Web Application</a><br> -->
 					View Github repo: <a href="https://github.com/richardbr-coder/Movie">Movie Web Application</a></P>
 				<a href="https://movie.codedad.ca/movie/">
 					<figure class="snip1504">
@@ -790,7 +790,7 @@ loading as they are viewed.
 
 				<br>
 				<h2>JavaScript Movie App</h2>
-				<p> View live demo: <a href="http://movie-javascript.codedad.ca/">JavaScript Movie Web Application</a><br>
+				<!-- <p> View live demo: <a href="http://movie-javascript.codedad.ca/">JavaScript Movie Web Application</a><br> -->
 					View Github repo: <a href="https://github.com/richardbr-coder/movieapp-javascript-">JavaScript Movie Web Application</a></P>
 				<a href="http://movie-javascript.codedad.ca/">
 					<figure class="snip1504">
@@ -805,7 +805,7 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>PHP E-Comm Example</h2>
-				<p> View live demo: <a href="http://phpecom.codedad.ca/shoppingcart/">PHP E-Comm Example Application</a><br>
+				<!-- <p> View live demo: <a href="http://phpecom.codedad.ca/shoppingcart/">PHP E-Comm Example Application</a><br> -->
 					View Github repo: <a href="https://github.com/richardbr-coder/PHP_Ecom">PHP E-Comm Example Application</a></P>
 				<a href="http://phpecom.codedad.ca/shoppingcart/">
 					<figure class="snip1504">
@@ -821,7 +821,7 @@ loading as they are viewed.
 				<br><br>
 				
 				<h2>NOVALAB</h2>
-				<p> View live demo: <a href="https://thenovalab.ca/">NOVALAB</a><br>
+				<!-- <p> View live demo: <a href="https://thenovalab.ca/">NOVALAB</a><br> -->
 					View Github repo: <a href="https://github.com/richardbr-coder/NOVALAB">NOVALAB</a></P>
 				<a href="https://thenovalab.ca/">
 					<figure class="snip1504">
@@ -835,7 +835,7 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>CODEDAD</h2>
-				<p> View live demo: <a href="https://codedad.ca/">CODEDAD</a><br>
+				<!-- <p> View live demo: <a href="https://codedad.ca/">CODEDAD</a><br> -->
 					View Github repo: <a href="https://github.com/richardbr-coder/Richard_portfolio_site">CODEDAD</a></P>
 				<a href="https://codedad.ca/">
 					<figure class="snip1504">
@@ -849,7 +849,7 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>E-Commerce Template</h2>
-				<p> View live demo: <a href="http://ecom.thenovalab.ca/index.html">E-Commerce Template</a><br>
+				<!-- <p> View live demo: <a href="http://ecom.thenovalab.ca/index.html">E-Commerce Template</a><br> -->
 					View Github repo: <a href="https://github.com/richardbr-coder/eCom-Website-template">E-Commerce Template</a></P>
 				<a href="http://ecom.thenovalab.ca/index.html">
 					<figure class="snip1504">
@@ -864,7 +864,7 @@ loading as they are viewed.
 				<br><br>
 
 				<h2>Personal Portfolio Template</h2>
-				<p> View live demo: <a href="http://portfolio-template.codedad.ca/public/index.html">Personal Portfolio Template</a><br>
+				<!-- <p> View live demo: <a href="http://portfolio-template.codedad.ca/public/index.html">Personal Portfolio Template</a><br> -->
 					View Github repo: <a href="https://github.com/richardbr-coder/mysite">Personal Portfolio Template</a></P>
 				<a href="http://portfolio-template.codedad.ca/public/index.html">
 					<figure class="snip1504">
@@ -919,7 +919,7 @@ loading as they are viewed.
 				</form>
 				<?php include "secure_email_function.php"?><br>
 
-				<p>For more projects visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a></p>
+				<!-- <p>For more projects visit my projects site for more! <a href="https://projects.richardrandell.ca"><b>PROJECTS</b></a></p> -->
 				<ul class="icons">
 					<!-- <li><a href="https://thenovalab.ca/" class="icon brands fa-readme"><span class="label">NOVALAB</span></a></li> -->
 					<!-- <li><a href="https://stackoverflow.com" class="icon brands fa-stack-overflow"><span class="label">Stack Overflow</span></a></li> -->

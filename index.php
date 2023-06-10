@@ -77,12 +77,14 @@ loading as they are viewed.
 						<!-- <li><a href="https://project1.codedad.ca" class="button primary">Banner/Canvas</a></li> -->
 					<!-- </ul> -->
 					
+					<p><b>Explore my other sites</b></p>
 					<ul class="icons">
 						<!-- <li><a href="https://thenovalab.ca/" class="icon brands fa-readme" target="_blank"></a></li> -->
 						<!-- <li><a href="#" class="icon brands fa-stack-overflow"><span class="label">Stack
 									Overflow</span></a></li> -->
 						<li><a href="https://www.linkedin.com/in/codedad/" class="icon brands fa-linkedin" target="_blank"></a> Linkedin</li>
 						<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github" target="_blank"></a> GitHub</li>
+						<li><a href="https://richardrandell.myportfolio.com" class="icon fa-camera" target="_blank"></a> Portfolio</li>
 					</ul>
 				</div>
 			</div>

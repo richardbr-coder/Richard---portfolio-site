@@ -84,7 +84,7 @@ loading as they are viewed.
 									Overflow</span></a></li> -->
 						<li><a href="https://www.linkedin.com/in/codedad/" class="icon brands fa-linkedin" target="_blank"></a> Linkedin</li>
 						<li><a href="https://github.com/richardbr-coder" class="icon brands fa-github" target="_blank"></a> GitHub</li>
-						<li><a href="https://richardrandell.myportfolio.com" class="icon fa-camera" target="_blank"></a> Portfolio</li>
+						<li><a href="https://richardrandell.myportfolio.com" class="fa fa-camera" target="_blank"></a> Portfolio</li>
 					</ul>
 				</div>
 			</div>
